@@ -1,0 +1,29 @@
+<annotation>
+    <folder>untitled folder 26</folder>
+    <filename>vest16.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>159</xmin>
+            <ymin>73</ymin>
+            <xmax>294</xmax>
+            <ymax>253</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>12</xmin>
+            <ymin>71</ymin>
+            <xmax>145</xmax>
+            <ymax>252</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'fire'
+}
+
+item {
+    id: 2
+    name: 'heat'
+}
+
+item {
+    id: 3
+    name: 'safety'
+}
+
+item {
+    id: 4
+    name: 'vest'
+}

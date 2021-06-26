@@ -1,0 +1,19 @@
+<annotation>
+    <folder>untitled folder 2</folder>
+    <filename>orangery.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>safety</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>108</xmin>
+            <ymin>47</ymin>
+            <xmax>285</xmax>
+            <ymax>196</ymax>
+        </bndbox>
+    </object>
+</annotation>

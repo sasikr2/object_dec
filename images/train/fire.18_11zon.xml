@@ -1,0 +1,29 @@
+<annotation>
+    <folder>untitled folder 15</folder>
+    <filename>fire.18_11zon.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>fire</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>82</xmin>
+            <ymin>52</ymin>
+            <xmax>151</xmax>
+            <ymax>178</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fire</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20</xmin>
+            <ymin>253</ymin>
+            <xmax>50</xmax>
+            <ymax>299</ymax>
+        </bndbox>
+    </object>
+</annotation>

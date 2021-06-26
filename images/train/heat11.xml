@@ -1,0 +1,29 @@
+<annotation>
+    <folder>untitled folder 30</folder>
+    <filename>heat11.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>safety</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>106</xmin>
+            <ymin>2</ymin>
+            <xmax>166</xmax>
+            <ymax>65</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>heat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>116</xmin>
+            <ymin>192</ymin>
+            <xmax>226</xmax>
+            <ymax>229</ymax>
+        </bndbox>
+    </object>
+</annotation>
